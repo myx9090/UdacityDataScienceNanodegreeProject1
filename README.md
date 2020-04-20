@@ -1,7 +1,8 @@
 # Disaster Response Pipeline Project
 
 ### Instructions:
-0. Please download the compressed file 
+0. Please download the compressed file "project1_codes.zip" which includes all python scripts and notebooks.
+
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
